@@ -46,8 +46,7 @@
   </tr>
 </table>
   
-<img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" /></p>
 </div>
