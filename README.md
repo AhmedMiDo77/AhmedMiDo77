@@ -1,16 +1,53 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed MiDo</h1>
+<h3 align="center">Hello, I'm MiDo Self - Taught Junior Front-End Developer, I Enjoy Developing Creative Arts, And I Also Like to Learn New Technologies.</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47y6dx306z1u9d937vwfwvi4mvuznvmcvilrc3s5e9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<!--
-**AhmedMiDo77/AhmedMiDo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://visitcount.itsvg.in/api?id=AhmedMiDo&icon=0&color=4)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
+- 🌱 I’m Currently Learning **Javascript And English**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask Me About Front End Fundamentals
+
+- 📫 How To Reach e **CreateDevelopmentArt@Gmail.Com**
+
+- ⚡ My Hobbies Are Learning, Gaming and Watch Football
+
+<h3 align="left">Connect With Me:</h3>
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Check-Github-Email" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Check-Github-Email" height="30" width="40" /></a>
+</p>
+<br>
+<div align="center">
+  <h3>Languages And Technologies:</h3>
+<table>
+  <tr>
+    <td width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+    <td width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+  </tr>
+</table>
+  
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Ahmed-MiDo" />
+
+<p><img  src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo&theme=radical&show_icons=true&hide_border=false&count_private=truet" alt="Ahmed-MiDo" /></p>
+</div>
