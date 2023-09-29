@@ -11,7 +11,7 @@
 
 - 📫 How To Reach Me **CreateDevelopmentArt@Gmail.Com**
 
-- ⚡ My Hobbies Are Learning, Gaming and Watch Football
+- ⚡ My Hobbies Are Learning, Gaming and Watching Football
 
 <h3 align="left">Contact With Me:</h3>
 <p align="left">
