@@ -3,7 +3,7 @@
 <h3 align="center">Hello, I'm MiDo Self - Taught Junior Front-End Developer, I Enjoy Developing Creative Arts, And I Also Like to Learn New Technologies.</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://getwallpapers.com/wallpaper/full/4/f/5/1263562-hd-code-wallpaper-1920x1080-for-samsung-galaxy.jpg">
 
-[![](https://visitcount.itsvg.in/api?id=AhmedMiDo&icon=0&color=4)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=AhmedMiDo&icon=0&color=4)
 
 - 🌱 I’m Currently Learning **Javascript And English**
 
