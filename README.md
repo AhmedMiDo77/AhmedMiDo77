@@ -23,7 +23,7 @@
 <br>
 <div align="center">
   <h1>🚀Languages, Tools And Technologies🚀</h1>
-  <table>
+  <table align=center>
     <tr>
       <td width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /> <br> 
