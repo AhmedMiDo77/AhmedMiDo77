@@ -51,6 +51,6 @@
   <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
 </div>
 <div>
-  <img align="left" width="300" height="300" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
+  <img align="left" width="300" height="600" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
   <img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" />
 </div>
