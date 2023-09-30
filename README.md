@@ -22,7 +22,7 @@
 </p>
 <br>
 <div align="center">
-  <h3>Languages And Technologies:</h3>
+  <h3>Languages, Tools And Technologies</h3>
   
 <table>
   <tr>
