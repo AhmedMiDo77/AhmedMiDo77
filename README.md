@@ -46,6 +46,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
+    <td width="96">
+        <img src="https://i.imgur.com/b77pGGZ.png" alt="icon" width="65" height="65" />
+      <br>Command Line
+    </td>
   </tr>
 </table>
 <div>
