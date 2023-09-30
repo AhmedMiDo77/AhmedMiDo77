@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/c80IwQz.png"></img>
 <h1 align="center">Hi 👋, I'm Ahmed MiDo</h1>
-<h3 align="center">Hello, I'm MiDo Self - Taught Junior Front-End Developer, I Enjoy Developing Creative Arts, And I Also Like to Learn New Technologies.</h3>
+<h3>Passionate Front End Developer | Aspiring Full Stack Developer | Continuous Learner | Embracing New Technologies
+</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://getwallpapers.com/wallpaper/full/4/f/5/1263562-hd-code-wallpaper-1920x1080-for-samsung-galaxy.jpg">
 
 ![](https://visitcount.itsvg.in/api?id=AhmedMiDo&icon=0&color=4)
