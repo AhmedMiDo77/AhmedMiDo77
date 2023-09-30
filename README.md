@@ -20,38 +20,34 @@
 <a href="https://www.linkedin.com/in/ahmed-mido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Check-Github-Email" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Check-Github-Email" height="30" width="40" /></a>
 </p>
-<br>
+
 <div align="center">
-  <h3>Languages, Tools And Technologies</h3>
-  
+  <h1>Languages, Tools And Technologies</h1>
 <table>
   <tr>
     <td width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /> <br> Github
     </td>
     <td width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> <br> Javascript
     </td>
     <td width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <img src="https://i.imgur.com/WORpMbb.png" alt="icon" width="65" height="65" /> <br> Command
+    </td>
+  </tr>
+  <tr>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br> Git
     </td>
     <td width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br> HTML
     </td>
     <td width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td width="96">
-        <img src="https://i.imgur.com/WORpMbb.png" alt="icon" width="65" height="65" />
-      <br>Command Line
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /> <br> CSS
     </td>
   </tr>
 </table>
+</div>
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" />
   <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
