@@ -49,5 +49,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" />
-<hr>
+<br><br><br><br><br><br><br><br>
 <img style="margin-top:50px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
