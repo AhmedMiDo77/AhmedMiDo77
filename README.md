@@ -23,33 +23,27 @@
 <br>
 <div align="center">
   <h1>🚀Languages, Tools And Technologies🚀</h1>
-  <table align=center>
+  <table>
     <tr>
-      <td width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /> <br> 
-        <b>GitHub</b>
+      <td align=center width="96">
+        <img align=center src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /> <br> <b>GitHub</b>
       </td>
-      <td width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> <br> 
-        <b>Javascript</b>
+      <td align=center width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> <br> <b>Javascript</b>
       </td>
-      <td width="96">
-        <img src="https://i.imgur.com/WORpMbb.png" alt="icon" width="65" height="65" /> <br> 
-        <b>Command</b>
+      <td align=center width="96">
+        <img src="https://i.imgur.com/WORpMbb.png" alt="icon" width="65" height="65" /> <br> <b>Command</b>
       </td>
     </tr>
     <tr>
-      <td width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br> 
-        <b>Git</b>
+      <td align=center width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br> <b>Git</b>
       </td>
-      <td width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br> 
-        <b>HTML5</b>
+      <td align=center width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br> <b>HTML5</b>
       </td>
-      <td width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /> <br> 
-        <b>CSS3</b>
+      <td align=center width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /> <br> <b>CSS3</b>
       </td>
     </tr>
   </table>
