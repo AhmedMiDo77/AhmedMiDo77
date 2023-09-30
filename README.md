@@ -47,7 +47,7 @@
       <br>Javascript
     </td>
     <td width="96">
-        <img src="https://i.imgur.com/b77pGGZ.png" alt="icon" width="65" height="65" />
+        <img src="https://i.imgur.com/WORpMbb.png" alt="icon" width="65" height="65" />
       <br>Command Line
     </td>
   </tr>
