@@ -6,7 +6,7 @@
 
 ![](https://visitcount.itsvg.in/api?id=AhmedMiDo&icon=0&color=4)
 
-- 🌱 I’m Currently Learning **Javascript And English**
+- 🧠 I’m Currently Learning **Javascript And English**
 
 - 💬 Ask Me About Front End Fundamentals
 
@@ -14,7 +14,7 @@
 
 - ⚡ My Hobbies Are Learning, Gaming and Watching Football
 
-<h3 align="left">Contact With Me:</h3>
+<h3 align="left">Contact With Me✉️:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Check-Github-Email" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-mido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Check-Github-Email" height="30" width="40" /></a>
@@ -22,7 +22,7 @@
 </p>
 <br>
 <div align="center">
-  <h1>Languages, Tools And Technologies</h1>⚙️
+  <h1>🚀Languages, Tools And Technologies🚀</h1>
 <table>
   <tr>
     <td width="96">
