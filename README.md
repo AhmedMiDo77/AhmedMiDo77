@@ -53,5 +53,5 @@
 </div>
 <!-- You Can Use Align To Move It Vertically With Div -->
 <div>
-  <img width="320" height="590" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
+  <img width="320" height="575" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
 </div>
