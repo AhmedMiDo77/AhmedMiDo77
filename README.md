@@ -57,5 +57,5 @@
 <div>
   <img alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <br>
-  <img width="320" height="310" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
+  <img width="320" height="315" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
 </div>
