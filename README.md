@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed MiDo</h1>
 <h3 align="center">Passionate Front End Developer | Aspiring Full-Stack Engineer | Continuous Learner | Embracing New Technologies
 </h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://getwallpapers.com/wallpaper/full/4/f/5/1263562-hd-code-wallpaper-1920x1080-for-samsung-galaxy.jpg">
+<img align="right" alt="Coding" width="450" height="350" src="https://getwallpapers.com/wallpaper/full/4/f/5/1263562-hd-code-wallpaper-1920x1080-for-samsung-galaxy.jpg">
 
 ![](https://visitcount.itsvg.in/api?id=AhmedMiDo&icon=0&color=4)
 
@@ -13,6 +13,8 @@
 - 📫 How To Reach Me **CreativeDevelopmentArt@Gmail.COM**
 
 - ⚡ My Hobbies Are Learning, Gaming and Watching Football
+
+- 🖥️ My Portfolio Website Loading
 
 <h3 align="left">Contact With Me✉️:</h3>
 <p align="left">
@@ -53,6 +55,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" />
   <img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
 </div>
-<br><br><br><br><br><br><br><br><br>
-<img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" />
-<img alt="Coding" width="490" height="300"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div>
+  <img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" />
+  <img alt="Coding" width="490" height="300"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
