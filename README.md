@@ -22,7 +22,6 @@
 <a href="https://www.linkedin.com/in/ahmed-mido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Check-Github-Email" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Check-Github-Email" height="30" width="40" /></a>
 </p>
-<br>
 <div align="center">
   <h1>🚀Languages, Tools And Technologies🚀</h1>
   <table>
