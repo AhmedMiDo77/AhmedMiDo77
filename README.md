@@ -48,12 +48,12 @@
     </tr>
   </table>
 </div>
+<!-- You Can Use Align To Move It Vertically With Div Or By Breaking -->
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" />
   <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
   <img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" />
 </div>
-<!-- You Can Use Align To Move It Vertically With Div Or By Breaking -->
 <div>
   <img alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <br>
