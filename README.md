@@ -48,14 +48,8 @@
     </tr>
   </table>
 </div>
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" />
-  <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
-  <img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" />
-</div>
-<!-- You Can Use Align To Move It Vertically With Div Or By Breaking -->
-<div>
-  <img alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-  <br>
-  <img width="320" height="315" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
-</div>
+
+  <img valign="center" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
+  <img alt="Coding" width="490" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img align="right" width="495" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" />
+  <img align="center" width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" />
