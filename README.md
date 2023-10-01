@@ -55,7 +55,7 @@
 </div>
 <!-- You Can Use Align To Move It Vertically With Div Or By Breaking -->
 <div>
-  <img alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img alt="Coding" width="315" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <br>  <br> 
-  <img width="300" height="310" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
+  <img width="315" height="310" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
 </div>
