@@ -51,9 +51,10 @@
 </div>
 <!-- You Can Use Align To Move It Vertically With Div Or By Breaking -->
 <div height="1000">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ahmed-MiDo" />
   <img alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-  <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
+  <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&stroke=a855f7&background=1c1917&ring=10b981&fire=10b981&currStreakNum=a855f7&currStreakLabel=10b981&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="Ahmed-MiDo" />
   <img width="350" height="315" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
-  <img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" />
+  <img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&langs_count=10&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AhmedMiDo77&bg_color=1c1917&color=a855f7&line=ef4444&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
 </div>
