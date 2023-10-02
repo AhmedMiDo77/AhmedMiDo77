@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed MiDo</h1>
 <h3 align="center">Passionate Front End Developer | Aspiring Full-Stack Engineer | Continuous Learner | Embracing New Technologies
 </h3>
-<img align="right" alt="Coding" width="450" height="350" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="425" height="335" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 ![](https://visitcount.itsvg.in/api?id=AhmedMiDo&icon=0&color=4)
 
@@ -22,7 +22,6 @@
 <a href="https://www.linkedin.com/in/ahmed-mido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Check-Github-Email" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Check-Github-Email" height="30" width="40" /></a>
 </p>
-<br>
 <div align="center">
   <h1>🚀Languages, Tools And Technologies🚀</h1>
   <table>
