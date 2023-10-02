@@ -51,7 +51,7 @@
 </div>
 <!-- You Can Use Align To Move It Vertically With Div Or By Breaking -->
 <div height="1000">
-  <img align="right" width="468" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&show_icons=false&hide=&count_private=true&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ahmed-MiDo" />
+  <img align="right" width="468" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ahmed-MiDo" />
   <img align="left" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&stroke=a855f7&background=1c1917&ring=10b981&fire=10b981&currStreakNum=a855f7&currStreakLabel=10b981&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="Ahmed-MiDo" />
   <img align="left" width="300" height="410" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
