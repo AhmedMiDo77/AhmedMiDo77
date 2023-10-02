@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/c80IwQz.png"></img>
+<img align="center" src="https://i.imgur.com/c80IwQz.png"></img>
 <h1 align="center">Hi 👋, I'm Ahmed MiDo</h1>
 <h3 align="center">Passionate Front End Developer | Aspiring Full-Stack Engineer | Continuous Learner | Embracing New Technologies
 </h3>
@@ -52,13 +52,8 @@
 <!-- You Can Use Align To Move It Vertically With Div Or By Breaking -->
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Ahmed-MiDo" />
+  <img alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&theme=radical&hide_border=false" alt="Ahmed-MiDo" />
+  <img width="350" height="315" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
   <img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&theme=radical&show_icons=true&hide_border=false&layout=compact" />
 </div>
-<!-- You Can Use Align To Move It Vertically With Div Or By Breaking -->
-<div>
-  <img alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-  <br>
-  <img width="350" height="315" src="https://i.imgur.com/qMAA1SS.jpg" alt="Ahmed-MiDo"></img>
-</div>
-
