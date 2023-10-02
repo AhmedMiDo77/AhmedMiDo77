@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/c80IwQz.png"></img>
+<img align="center" src="https://i.imgur.com/c80IwQz.png">
 <h1 align="center"><font color="red">Hi 👋, I'm Ahmed MiDo</font></h1>
 <h3 align="center">Passionate Front End Developer | Aspiring Full-Stack Engineer | Continuous Learner | Embracing New Technologies
 </h3>
@@ -51,11 +51,8 @@
 </div>
 <!-- You Can Use Align To Move It Vertically With Div Or By Breaking -->
 <div>
-  <img align="right" width="468" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&count_private=true&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ahmed-MiDo" />
-  <img align="left" alt="Coding" width="345" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-  <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&stroke=a855f7&background=1c1917&ring=10b981&fire=10b981&currStreakNum=a855f7&currStreakLabel=10b981&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="Ahmed-MiDo" />
-  <img align="left" width="345" height= src="" alt="Ahmed-MiDo"></img>
-  <img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&langs_count=10&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedMiDo77&bg_color=1c1917&color=10b981&line=ef4444&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/AhmedMiDo77/github-readme-activity-graph)
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&stroke=a855f7&background=1c1917&ring=10b981&fire=10b981&currStreakNum=a855f7&currStreakLabel=10b981&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="Ahmed-MiDo" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&count_private=true&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ahmed-MiDo" />
+  <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&langs_count=10&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+  <img align="right" width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMiDo77&bg_color=1c1917&color=10b981&line=ef4444&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
 </div>
