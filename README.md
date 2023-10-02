@@ -1,5 +1,5 @@
 <img align="center" src="https://i.imgur.com/c80IwQz.png"></img>
-<h1 align="center">Hi 👋, I'm Ahmed MiDo</h1>
+<h1 align="center" text_color=a855f7>Hi 👋, I'm Ahmed MiDo</h1>
 <h3 align="center">Passionate Front End Developer | Aspiring Full-Stack Engineer | Continuous Learner | Embracing New Technologies
 </h3>
 <img align="right" alt="Coding" width="450" height="350" src="https://getwallpapers.com/wallpaper/full/4/f/5/1263562-hd-code-wallpaper-1920x1080-for-samsung-galaxy.jpg">
