@@ -13,7 +13,7 @@
 
 - ⚡ My Hobbies Are Learning, Gaming and Watching Football
 
-- 🖥️ My Portfolio Website Loading
+- 🖥️ My Portfolio Website is Loading
 
 <h3 align="left">Contact With Me✉️:</h3>
 <p align="left">
