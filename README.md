@@ -1,6 +1,6 @@
 <img align="center" src="https://i.imgur.com/8e1BNxq.png"></img>
 <h1 align="center">Hi 👋, I'm Ahmed MiDo</h1>
-<h3 align="center">Passionate Front End Developer | Aspiring Full-Stack Engineer | Continuous Learner | Embracing New Technologies
+<h3 align="center"> 🚀 Passionate Front End Developer | ✨ Aspiring Full-Stack Engineer | 🧠 Continuous Learner | ⚡ Embracing New Technologies
 </h3>
 <img align="right" alt="Coding" width="425" height="315" src="https://www.lambdatest.com/resources/images/news24.gif">
 
