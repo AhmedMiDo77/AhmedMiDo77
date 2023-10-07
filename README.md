@@ -32,7 +32,7 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> <br> <b>Javascript</b>
       </td>
       <td align=center width="96">
-        <img src="https://i.imgur.com/WORpMbb.png" alt="icon" width="65" height="65" /> <br> <b>Command</b>
+        <img src="https://i.imgur.com/WORpMbb.png" alt="icon" width="65" height="65" /> <br> <b>Terminal</b>
       </td>
     </tr>
     <tr>
