@@ -9,7 +9,7 @@
 
 - 💬 Ask Me About Front End Fundamentals
 
-- 📫 How To Reach Me **CreativeDevelopmentArt@Gmail.COM**
+- 📫 How To Reach Me **CreativeDevelopmentArt@GMAIL.COM**
 
 - ⚡ My Hobbies Are Learning, Gaming and Watching Football
 
