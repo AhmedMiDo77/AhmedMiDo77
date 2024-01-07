@@ -3,7 +3,9 @@
 <h3 align="center"> 🚀 Passionate Front End Developer | ✨ Aspiring Full-Stack Engineer | 🧠 Continuous Learner | ⚡ Embracing New Technologies</h3>
 <img align="right" alt="Coding" width="425" height="315" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-![](https://visitcount.itsvg.in/api?id=AhmedMiDo&icon=0&color=4)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AhmedMiDo77&label=Profile%20Views&color=5&icon=0&pretty=false" />
+</a>
 
 - 🧠 I’m Currently Learning **Javascript And English**
 
