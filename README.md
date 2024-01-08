@@ -55,7 +55,7 @@
   <img align="right" width="468" src="https://github-readme-stats.vercel.app/api?username=AhmedMiDo77&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="Ahmed-MiDo" />
   <img align="left" alt="Coding" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <img align="right" width="468" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMiDo77&stroke=a855f7&background=1c1917&ring=10b981&fire=10b981&currStreakNum=a855f7&currStreakLabel=10b981&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="Ahmed-MiDo" />
-  <img align="left" width="330" height="389" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes"> 
+  <img align="left" width="330" height="389" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes"> 
   <img align="right" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMiDo77&langs_count=10&title_color=10b981&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedMiDo77&bg_color=1c1917&color=10b981&line=ef4444&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/AhmedMiDo77/github-readme-activity-graph)
